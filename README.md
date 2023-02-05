@@ -23,7 +23,7 @@ The design patterns that were used for the design of this software application w
 
 ### Functionalities
 
-* Create and edit the contents of document. The document hold a title, the author and a creation date
+* Create and edit the contents of document. The document holds the title, author and creation date
 * Save/load the document to/from disk
 * Transform the document, or a specific line, to audio, in order or in reverse order
 * Encode the document, or a specific line, using Atbash or Rot-13 type of encodement and transform it to audio.
